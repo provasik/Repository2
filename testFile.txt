@@ -1,10 +1,7 @@
 riadok 1
 riadok 8
-<<<<<<< HEAD
 riadok 9
-=======
-riadok 5
->>>>>>> test
 riadok 7
 riadok 3
 riadok 667
+riadok913
