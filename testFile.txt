@@ -1,6 +1,6 @@
 riadok 1
 riadok 8
-riadok 3
+riadok 4
 riadok 7
 riadok 3
 riadok 667
